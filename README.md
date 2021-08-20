@@ -1,3 +1,3 @@
 # Releases
 
-This repository holds various releases of Sireum tools.
+This repository holds various rolling releases of Sireum tools.
